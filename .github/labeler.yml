@@ -8,3 +8,5 @@ infrastructure:
 - infrastructure/**/*
 cli:
 - cli/**/*
+test-sub:
+- test-sub/**/*
