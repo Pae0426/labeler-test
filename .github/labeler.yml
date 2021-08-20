@@ -9,4 +9,4 @@ infrastructure:
 cli:
 - cli/**/*
 test-dir-sub:
-- test-sub/**/*
+- test-dir-sub/**/*
