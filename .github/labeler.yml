@@ -1,13 +1,25 @@
-web:
-- web/**/*
-api:
-- api/**/*
-batch:
-- batch/**/*
-infrastructure:
-- infrastructure/**/*
-cli:
-- cli/**/*
-test-dir-sub:
-- test-dir/sub-dir1/**/*
-- test-dir/sub-dir2/**/*
+k8s:
+- k8s/**/*
+cfn:
+- cloudformation/**/*
+terraform:
+- terraform/**/*
+tools:
+- tools/**/*
+benchmark:
+- benchmark/**/*
+
+zozo-api-gateway:
+- k8s/*/zozo-api-gateway*/**/*
+zozo-id:
+- k8s/*/zozo-id*/**/*
+zozo-back-id:
+- k8s/*/zozo-back-id*/**/*
+zozo-search-api:
+- k8s/*/zozo-search-api*/**/*
+zozo-front-api:
+- k8s/*/zozo-front-api*/**/*
+zozo-back-api:
+- k8s/*/zozo-back-api*/**/*
+zozo-cart-api:
+- k8s/*/zozo-cart-api*/**/*
