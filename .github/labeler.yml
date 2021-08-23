@@ -21,6 +21,6 @@ zozo-front-api:
 - k8s/*/zozo-front-api*/**/*
 zozo-back-api:
 - k8s/*/zozo-back-api*/**/*
-- k8s/dev-onprem/zozo-back-api*/**/*
+- k8s/dev-onprem/zozo-back-api-*/**/*
 zozo-cart-api:
 - k8s/*/zozo-cart-api*/**/*
