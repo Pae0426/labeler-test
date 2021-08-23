@@ -10,17 +10,16 @@ benchmark:
 - benchmark/**/*
 
 zozo-api-gateway:
-- k8s/*/zozo-api-gateway*/**/*
+- k8s/*/zozo-api-gateway/**/*
 zozo-id:
-- k8s/*/zozo-id*/**/*
+- k8s/*/zozo-id/**/*
 zozo-back-id:
-- k8s/*/zozo-back-id*/**/*
+- k8s/*/zozo-back-id/**/*
 zozo-search-api:
-- k8s/*/zozo-search-api*/**/*
+- k8s/*/zozo-search-api/**/*
 zozo-front-api:
-- k8s/*/zozo-front-api*/**/*
+- k8s/*/zozo-front-api/**/*
 zozo-back-api:
-- k8s/*/zozo-back-api*/**/*
-- k8s/dev-onprem/zozo-back-api-*/**/*
+- k8s/*/zozo-back-api/**/*
 zozo-cart-api:
-- k8s/*/zozo-cart-api*/**/*
+- k8s/*/zozo-cart-api/**/*
