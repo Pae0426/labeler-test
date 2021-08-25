@@ -1,2 +1,6 @@
-sub-test-dir:
-- test-dir/sub-test-dir*/**/*
+test:
+- ./**/*
+test-dir1:
+- test-dir1/sub-test-dir*/**/*
+test-dir2:
+- test-dir2/**/*
