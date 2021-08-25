@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 k8s:
 - k8s/**/*
 cfn:
@@ -23,3 +24,17 @@ zozo-back-api:
 - k8s/*/zozo-back-api/**/*
 zozo-cart-api:
 - k8s/*/zozo-cart-api/**/*
+=======
+web:
+- web/**/*
+api:
+- api/**/*
+batch:
+- batch/**/*
+infrastructure:
+- infrastructure/**/*
+cli:
+- cli/**/*
+sub-test-dir:
+- test-dir/sub-test-dir*/**/*
+>>>>>>> 37c46e11e222e8782c6469ca050fba86fed46b99
