@@ -1,12 +1,2 @@
-web:
-- web/**/*
-api:
-- api/**/*
-batch:
-- batch/**/*
-infrastructure:
-- infrastructure/**/*
-cli:
-- cli/**/*
 sub-test-dir:
 - test-dir/sub-test-dir*/**/*
