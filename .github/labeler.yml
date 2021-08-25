@@ -1,30 +1,3 @@
-<<<<<<< HEAD
-k8s:
-- k8s/**/*
-cfn:
-- cloudformation/**/*
-terraform:
-- terraform/**/*
-tools:
-- tools/**/*
-benchmark:
-- benchmark/**/*
-
-zozo-api-gateway:
-- k8s/*/zozo-api-gateway/**/*
-zozo-id:
-- k8s/*/zozo-id/**/*
-zozo-back-id:
-- k8s/*/zozo-back-id/**/*
-zozo-search-api:
-- k8s/*/zozo-search-api/**/*
-zozo-front-api:
-- k8s/*/zozo-front-api/**/*
-zozo-back-api:
-- k8s/*/zozo-back-api/**/*
-zozo-cart-api:
-- k8s/*/zozo-cart-api/**/*
-=======
 web:
 - web/**/*
 api:
@@ -37,4 +10,3 @@ cli:
 - cli/**/*
 sub-test-dir:
 - test-dir/sub-test-dir*/**/*
->>>>>>> 37c46e11e222e8782c6469ca050fba86fed46b99
