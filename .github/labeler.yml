@@ -4,3 +4,5 @@ test-dir1:
 - test/test-dir1/sub-test-dir*/**/*
 test-dir2:
 - test/test-dir2/**/*
+test-dir3:
+- test/test-dir3/**/test*
