@@ -6,3 +6,8 @@ test-dir2:
 - test/test-dir2/**/*
 test-dir3:
 - test/test-dir3/**/test*
+
+dev:
+- /**/dev/**/*
+prd:
+- /**/prd/**/*
