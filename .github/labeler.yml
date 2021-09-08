@@ -8,6 +8,6 @@ test-dir3:
 - test/test-dir3/**/test*
 
 dev:
-- .*/**/dev/**/*
+- .*/**/*/dev/**/*
 prd:
-- .*/**/prd/**/*
+- .*/**/*/prd/**/*
